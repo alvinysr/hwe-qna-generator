@@ -1,4 +1,4 @@
-# hwe-qna-generator
+# hwe-question-generator
 Hardy-Weinberg Equilibrium
 
 p^2 + 2pq + q^2 = 1
